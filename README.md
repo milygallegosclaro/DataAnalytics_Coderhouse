@@ -52,3 +52,20 @@ categorias (1) ──── (N) productos (1) ──── (N) ventas (N) ──
 ## Evidencia de ejecución
 
 ![Evidencia de ejecución](evidencia.jpeg)
+
+
+# Pre-entrega 4 – Consultas SQL de negocio
+
+## Descripción
+
+Script SQL que realiza consultas sobre un modelo de ventas de una tienda de tecnología. Utiliza sentencias de agrupamiento como 'GROUP BY' o 'HAVING', de ordenamiento con 'ORDER BY', de agrecación como 'SUM' y 'AVG' y para anidar consultas con 'WITH'.
+
+![Resultado Preentrega 4 Consulta 1](resultado_preentrega4_consulta1.jpg)
+
+![Resultado Preentrega 4 Consulta 2](resultado_preentrega4_consulta2.jpg)
+
+![Resultado Preentrega 4 Consulta 3](resultado_preentrega4_consulta3.jpg)
+
+![Resultado Preentrega 4 Consulta 4](resultado_preentrega4_consulta4.jpg)
+
+![Hallazgos Preentrega 4 ](hallazgos_preentrega4.jpg)
