@@ -195,6 +195,6 @@ ORDER BY id_producto
 
 
 
--- Hallazgo 1: El producto 1 tiene facturado el 55.87% del total facturado
--- Hallazgo 2: El producto 4 es el que menos facturó, pero tiene las mismas unidades vendidas que producto 1, 3 y 5
--- Hallazgo 3: El cliente 1 fue el que más ingresos generó
+-- Hallazgo 1: El producto 1 tiene facturado el 55.87% del total facturado.
+-- Hallazgo 2: El producto 4 es el que menos facturó, pero tiene las mismas unidades vendidas que producto 1, 3 y 5.
+-- Hallazgo 3: El cliente 1 fue el que más ingresos generó.
