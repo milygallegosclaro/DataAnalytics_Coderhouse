@@ -69,3 +69,25 @@ Script SQL que realiza consultas sobre un modelo de ventas de una tienda de tecn
 ![Resultado Preentrega 4 Consulta 4](resultado_preentrega4_consulta4.jpg)
 
 ![Hallazgos Preentrega 4 ](hallazgos_preentrega4.jpg)
+
+
+
+# Pre-entrega 5 – Consultas con JOINs para el proyecto
+
+## Descripción
+
+Scripts SQL que mejora la vista de la tabla ventas, combinandola con tabla clientes, productos y categorías.
+Obtiene información para el CRM sobre Clientes que nunca compraron y productos del catálogo que no tienen ventas registradas.
+Finalmente se utiliza un UNION ALL para comprar facturaciones según canal de venta correspondiente (2 criterios distintos).
+
+Consulta 1:
+![Resultado Preentrega 5 Consulta 1](resultado_preentrega5_consulta1.jpg)
+
+Consulta 2:
+![Resultado Preentrega 5 Consulta 2](resultado_preentrega5_consulta2.jpg)
+
+Consulta 3:
+![Resultado Preentrega 5 Consulta 3](resultado_preentrega5_consulta3.jpg)
+
+Consulta 4:
+![Resultado Preentrega 5 Consulta 4](resultado_preentrega5_consulta4.jpg)
